@@ -13,7 +13,7 @@ const geistMono = localFont({
 });
 
 export const metadata = {
-  title: "Create Next App",
+  title: "Artifacts UI",
   description: "Created by Jonas Haas (jonas-haas.com)",
 };
 
